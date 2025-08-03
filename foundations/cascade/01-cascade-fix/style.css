@@ -34,8 +34,6 @@ body {
   background: green;
   color: white;
   font-weight: bold;
-  border-radius: none;
-  border-color: black;
 } 
 .confirm-button {
   border-radius: 0px;
